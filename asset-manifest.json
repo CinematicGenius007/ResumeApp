@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CinematicGenius007/ResumeApp/static/css/main.073c9b0a.css",
+    "main.js": "/CinematicGenius007/ResumeApp/static/js/main.1378f121.js",
+    "static/js/787.3d5c1344.chunk.js": "/CinematicGenius007/ResumeApp/static/js/787.3d5c1344.chunk.js",
+    "static/media/logo.svg": "/CinematicGenius007/ResumeApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CinematicGenius007/ResumeApp/index.html",
+    "main.073c9b0a.css.map": "/CinematicGenius007/ResumeApp/static/css/main.073c9b0a.css.map",
+    "main.1378f121.js.map": "/CinematicGenius007/ResumeApp/static/js/main.1378f121.js.map",
+    "787.3d5c1344.chunk.js.map": "/CinematicGenius007/ResumeApp/static/js/787.3d5c1344.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1378f121.js"
+  ]
+}
